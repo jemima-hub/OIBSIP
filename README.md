@@ -33,6 +33,9 @@ Password: admin123
 ### Author
 Jemima Joselin D
 
+### Screenshots
+
+
 <img width="616" height="423" alt="Screenshot 2026-06-08 192114" src="https://github.com/user-attachments/assets/8e13fc4f-132d-479d-89a9-514f729acc36" />
 
 <img width="763" height="1012" alt="Screenshot 2026-06-08 192140" src="https://github.com/user-attachments/assets/019382a8-3f8d-4959-ac4f-7e5ec9d0f95d" />
